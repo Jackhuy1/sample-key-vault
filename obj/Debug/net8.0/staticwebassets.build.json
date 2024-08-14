@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tkNdguTwZ1gUBdzqauv+Xyw2MXHY/j5nyzSt5l8rU/c=",
+  "Source": "sample-key-vault",
+  "BasePath": "_content/sample-key-vault",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
